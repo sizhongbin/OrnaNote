@@ -12,6 +12,9 @@
 
 - Event Summary
 
+  - [The Crimson Festival - Apr 2024 Main](/event/crimson.md)
+  - [Sisters of Morrigan - Apr 2024 Mini](/event/morrigan.md)
+  - [Lyonesse Legends - Apr 2024 Mini](/event/lyonesse.md)
   - [Thronemakers - Mar 2024 Main](/event/thronemakers.md)
   - [Balor Invades - Mar 2024 Mini](/event/balor.md)
   - [The Mischievous Clurichauns - Mar 2024 Mini](event/clurichauns.md)
