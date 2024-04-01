@@ -1,86 +1,83 @@
-🍄 **__The Mischievous Clurichauns - March 2023 Event Checklist__** 🍄
-The fairies are back again again! Naggeneen and their legion of clurichauns have returned to the world of Orna! 
+*There's a bull and a matador*
+*Dueling in the sky*
+*Inhale, inhale, that's heaven*
+- Solo by Frank Ocean
 
-**Duration:** <t:1679529600:f> to <t:1680307200:f>
+<:gorgon_head:1091625337252757585> **__The Crimson Festival - April 2023 Event Checklist__** <:gorgon_head:1091625337252757585>
+Welcome to the Crimson Festival. The gods have fallen, and for a limited time, you can fight them! For those familiar with Cerus's bold (bulled?) face, there's two new guests! **But don't go spamming your summoning scrolls just yet!**
 
-🍄 **__Followers__** 🍄
-○ T6 - Naggeneen
-○ T8 - Amadan
-○ T9 - Arisen Naggeneen
+**Duration:** <t:1680307200:f> to <t:1682899200:f>
 
-🍄 **__Raids__** 🍄
-`KWO` = Kingdom, World Raid, Other Means
-○ `KW ` T7 - Naggeneen
-○ `KW ` T9 - Arisen Naggeneen
+<:gorgon_head:1091625337252757585> **__Followers__** <:gorgon_head:1091625337252757585>
+○ T7 - Cerus
+○ T9 - Raging Cerus
+○ T9 - Untamed Cerus
+○ T10 - Medusa
 
-The monsters and bosses for this event are **split** among many themed dungeons. Namely, all Tier 4 monsters can be found in **Goblin Fortresses** <:fort:901749420620664852>, tier 6 mobs can be found in **Mystic Caves** <:mystic_cave:901749480456585226>, and tier 8 mobs can be found in **Chaos Portals** <:chaos_portal:901749614875643914>.
+<:gorgon_head:1091625337252757585> **__Raids__** <:gorgon_head:1091625337252757585>
+(Spawning Methods: `KWO` - Kingdom, World Raid, Other Means)
+○ `K O` T6 - Aries <:a_ess:1091624757558005900>
+○ `  O` T9 - Aloof Aries <:a_ess:1091624757558005900>
+○ `K O` T9 - Tricky Aries <:a_ess:1091624757558005900>
+○ `K O` T6 - Cerus <:c_ess:1091624755800571915> 
+○ `  O` T9 - Ferocious Cerus <:c_ess:1091624755800571915>
+○ `K O` T9 - Furious Cerus <:c_ess:1091624755800571915>
+○ `K O` T6 - Perseus <:p_ess:1091624754819125248>
+○ `  O` T9 - Noble Perseus <:p_ess:1091624754819125248>
+○ `K O` T9 - Untarnished Perseus <:p_ess:1091624754819125248>
+Read the notes section to learn what these symbols mean!
 
-🍄 **__Boss__** 🍄
-○ T8 - Amadan
+<:gorgon_head:1091625337252757585> **__Boss__** <:gorgon_head:1091625337252757585>
+○ T10 - Medusa
 
-🍄 **__Monsters__** 🍄
-○ T4 - Aine
-○ T4 - Conall
-○ T4 - Finn
-○ T6 - Amergin
-○ T6 - Bricriu
-○ T6 - Cormac
-○ T8 - Beag
-○ T8 - Fergus
+<:gorgon_head:1091625337252757585> **__Monsters__** <:gorgon_head:1091625337252757585>
+NOTE: *These monsters are all ACTUALLY called "_ Acolyte". This is just to distinguish.*
+○ T7 - Aries Underling <:a_ess:1091624757558005900>
+○ T7 - Cerus Underling <:c_ess:1091624755800571915> 
+○ T7 - Perseus Underling <:p_ess:1091624754819125248>
+○ T9 - Aries Follower <:a_ess:1091624757558005900>
+○ T9 - Cerus Follower <:c_ess:1091624755800571915> 
+○ T9 - Perseus Follower <:p_ess:1091624754819125248>
+○ T10 - Aries Acolyte <:a_ess:1091624757558005900>
+○ T10 - Cerus Acolyte <:c_ess:1091624755800571915> 
+○ T10 - Perseus Acolyte <:p_ess:1091624754819125248>
 
-🍄 **__Items of Interest__** 🍄
-○ **Naggeneen's Brew** - With this (plus a Panacea), you can proc all single-up buffs in one turn!
-○ **Sour & Smelly Mushrooms** - One is berserk, one procs offensive stat buffs!
-○ **Naggeneen's Shoes** - among the best shoes for people in Tier 8.
-○ **Clurichaun Offhands** - these give solid boosts to gold! 
-○ **Bricriu's Bow (T6) & Amadan's Staff (T8)** - both give AoE skills!
-
-📘 **__Notes__** 📘
-○ While the raids have many status immunities (including a **Petrify** immunity, so bring a **Gargoyle**), the mobs and boss have none! **Just get their moves and their drop once**. These 9 are easy codex entries.
-○ Both Naggeneen have 4 elemental resistances/immunities, which are **Water, Lightning, Holy, and Earthen**. 
-○ Pack yourself some **Toxic immunity**, or a way to clear it when you get it. Thanks to things like **Briny Pendant** from the Kraken, though, it's easier to manage.
-○ Stock up on those consumables! **Smelly Mushroom can proc a Berserk III effect**, and both are great if you're looking to speedrun things.
-
-
-# <:tmk:1214020897627705434> __Thronemakers - March 2024 Event Checklist__ <:tmk:1214020897627705434> 
-After the dragons created the world, the Thronemakers spread out to create many of the societies of today - Annwn, Avalon, Lyonesse, Elysian. Listen to the Aaru Storyteller's tale!
-
-<:tmk:1214020897627705434> **__Raids__** <:tmk:1214020897627705434>
-(Spawn via `K`ingdom, `W`orld Raid, or `O`ther Means.)
-● `KW ` T6 - Thronemaker Neith
-● `KW ` T7 - Thronemaker Sekhmet
-● `KW ` T8 - Thronemaker Ptah
-● `KW ` T10 - Arisen Thronemaker Neith
-● `KW ` T10 - Arisen Thronemaker Ptah
-● `KW ` T10 - Arisen Thronemaker Sekhmet
-● `  O` T10 - Great Sphinx
-
-<:tmk:1214020897627705434>  **__Followers__** <:tmk:1214020897627705434>
-● T3 - Sphinx Cub 
-● T7 - Aaru Cobra
-● T10 - Aaru Viper
-● T10 - Sphinx Kit
-
-<:tmk:1214020897627705434> **__Monsters__** <:tmk:1214020897627705434>
-● T3 - Sphinx Cub
-● T10 - Sphinx Kit
-
-<:tmk:1214020897627705434> **__Skills__** <:tmk:1214020897627705434>
-● T4 - Sands of Aaru
-● T10 - Summon Sphinx Kit
-
-<:tmk:1214020897627705434> **__SOME Items of Interest__** <:tmk:1214020897627705434>
-(Obtain these items from a `S`uper Raid, `R`aid,  `B`oss, `M`onster, or `Q`uestline)
-● `R` T10 - **Arisen Aaru Leggings** - a really nice bulky warrior piece that boasts a sizable ward boost.
-● `R` T10 - **Arisen Aaru Robe** - a mage piece that gives your follower Great Meditation!
-● `S` T10 - **[Magewear] of Dynasty** - gives you access to "Gods of Aaru", which is a 2 turn DC!
-● `S` T10 - **[Warriorwear] of Dynasty** - gives you access to "Walls of Aaru", which is a 2 turn DB!
-● `Q` T8 - **Tail of a Sphinx** - increases the chance of getting an ornate item!
+<:gorgon_head:1091625337252757585> **__(SOME) Items of Interest__** <:gorgon_head:1091625337252757585>
+○ **Ferocious Bull's Eye** - 4% crit in just one adorn and some stats?!?!
+○ **Gorgon's Eye** - 4% crit in just one adorn and some status immunity?!?!
+○ **Poison Arrows** - T10 offhand with ward and a new Poison Volley!
 
 📘 **__Notes__** 📘
-○ When codexing the Thronemaker raids, all you need to do is **pack Sleep Dart, Stun Dart, and Great Mimic's Mischief**. These will get you all 10 status immunities that the raids have. Use Sleep Dart until it procs, then use Stun Dart until it procs, then keep spamming GMM and checking the codex until all 10 are populated. This shouldn't take too long, but keep a close eye on yourself to make sure you're not dying from your own DoTs.
-○ You can earn Old Seals from defeating the T10 Arisen raids, and these can be used to craft a scroll to summon Great Sphinx (at 3 each) which should be pretty easy, since they drop these Seals like the Ragnarok raids drop Runes - up to 10 a raid. Each T10 raid drops a different proof, so you'll need to kill all 3, but this makes no event summon from scrolls go to waste!
-○ You can also use the seals to roll an item called Eastern Regalia - a hybrid two-handed weapon that gives you bonuses for not equipping a follower. Best to use any spare runes to get a good quality one! The price for these are also 3 of each rune.
-○ The Sphinx mobs are a good source of Ancient Stone! They're beasts, so they'll spawn in Beast Dens <:beast_den:948029732853805156> and Normal Dungeons <:dungeon:852209561510608956>. Farm them if you're low on that material!
+○ To those trying to summon Ferocious Cerus, regular summoning scrolls won't work. DO NOT USE REGULAR SUMMONING SCROLLS TO SPAWN CERUS!
+○ In order to summon the raids in the world, you'll need to craft Crimson Summoning Scrolls. This can be done in a **Herbalist** (remember those?) by combining a regular Summoning Scroll and 10 of an essence. Essence is dropped by the monsters, which can be found in dungeons and in the world.
+○ This crafting method will only be present as long as the Crimson Festival. That being said, the scrolls (should) still work after the month ends, you just won't be able to craft more.
+○ To codex the monsters, you'll need to be... very patient. They have **Cursed Glare**, which is Fey Gazer's ultimate ability. As such, it has a low proc rate. Trust me, it'll use it.
 
-## Event Questline Guide in the Event Thread: https://discord.com/channels/448527960056791051/1214039749451317328
+**TLDR:** Here to learn about how the event works? Read 📘 **__Notes__** 📘 and then look at the rest.
+
+
+
+
+
+
+<:trevelyan:904760659114336256> **__Lyonesse Legends - October 2023 Event Checklist___** <:trevelyan:904760659114336256>
+The warlock Trevelyan has returned! When first announced in 2021, his event also saw the inclusion of two new bosses, Fallen King Meliodas and Arisen King Meliodas, with the latter being later introduced into the game. Both the raids AND bosses introduced a new mechanic - Mark & Execution. When an enemy uses the move Lyon's Mark, you'll receive a Lyon's Mark status effect, which can go away after some time or be cured immediately using Lyon's Penance, a curative. If you have Lyon's Mark, and an enemy uses Lyon's Execution, you will suffer massive damage. It's good practice to either have strong defensive buffs up or use a Penance when necessary, since these will typically end a battle if you're not prepared!
+
+<:trevelyan:904760659114336256> **__Followers__** <:trevelyan:904760659114336256>
+○ T6 - Lindworm
+
+<:trevelyan:904760659114336256> **__Raids__** <:trevelyan:904760659114336256>
+(links to codex entry images from 2021, sourced from Orna Legends)
+○ `KW ` T6 - Fallen Warlock Trevelyan (<https://tinyurl.com/ornafallentrevor>)
+○ `KW ` T9 - Arisen Warlock Trevelyan (<https://tinyurl.com/ornaarisentrevor>)
+
+<:trevelyan:904760659114336256> **__Items of Interest__** <:trevelyan:904760659114336256>
+○ T6 - **Trevelyan's Charm** - gives a 10% stat boost when wielding a two-handed weapon.
+○ T9 - **Arisen Trevelyan's Charm** - gives a 15% stat boost when wielding a two-handed weapon.
+
+📘 **__Notes__** 📘 
+○ When codexing, these two bosses are immune to single and double Res debuffs, as well as T. Res single debuff. Use **Outwill** for single Res down, a **Banshee** pet for double Res down, and a **Heretic's Jewel** or any **Swordplay** for T. Res down.
+○ The Trevelyan Charms aren't outmatched by much for people who use two-handed weapons. It is advised, even if you don't run two-handed weapons, to pick up at least **2 Arisen Trevelyan's Charms** to use whenever you need them.
+○ If you're T9 or above, you'll be able to find Lyon's Penance from Arisen King Meliodas in Battlegrounds.
+
+*Event posts will now have public discussion threads! Until perms get updated in maincord, threads will be available in Orna Legends. This thread will be closed when the event it is attached to concludes.*
