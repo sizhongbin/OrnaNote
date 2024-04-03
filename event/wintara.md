@@ -11,7 +11,7 @@
 - Wintara: Buffs sometimes also apply to party mates. Positive status effects last longer.
 2. All gears from House of Wintara event bosses except the ones summoned by crest have Wintara effect. All gears from Paths of Fomoria event bosses summoned by crest have all weakened house effects.
 3. Get Summon Buggane if you are summoner (attuner) classline.
-4.Get the following immune gears if you need. Useable by magic user only.
+4. Get the following immune gears if you need. Useable by magic user only.
 - ***T4*** / ***T8*** / ***T10*** (Arisen) (Cursed) Lero's Hood: Frozen
 - ***T4*** / ***T8*** / ***T10*** (Arisen) (Cursed) Ogmios' Satin Robe: Confused
 - ***T4*** / ***T8*** / ***T10*** (Arisen) (Cursed) Imona's Slippers: Drenched & Asleep
