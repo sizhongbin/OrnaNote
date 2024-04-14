@@ -1,1 +1,1 @@
-![RD](../images/RD.png "RD")
+![RD](../images/RD.jgp "RD")
