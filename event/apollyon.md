@@ -11,6 +11,12 @@
 
 1. Get normal quality ***T5*** / ***T8*** / ***T10*** Elemental Books (X) of your faction element and dragon, which are useful for proccing a specific alignment.
 2. Get Ornate ***T0*** Beguiled Mystic Katar X, very useful for classes without steadfast.
+3. Get Ornate ***T10*** Beguiled weapon X if you need, give you 1.3x damage for 4 faction elements with 0.5x damage for 4 secondary elements.
+
+## SzHb's Tips
+
+1. Book of Fire/Water/Lightning/Earth/Dragon/Arcane have 15% proc rate, while X version have 30%. Book of Holy/Dark have 20% proc rate, while X version have 50%.
+2. Alignments are buffs you can give to yourself that give you 1.5x damage and immune for that element. But is the case for the four faction elements, you get a weakness to another element (Earth is weak to Fire, which is weak to Water, which is weak to Lightning, which is weak to Earth).
 
 ## Event Checklist (mostly from Discord)
 
