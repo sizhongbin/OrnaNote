@@ -1,153 +1,38 @@
+<:B_Apollyon:973994754998145105>  **__The Plight of Apollyon - May 2023 Event Checklist__** <:B_Apollyon:973994754998145105>
+During this month, let's go back and fight some memories! Tons of interesting things come with this returning event. All the monsters and followers focus heavily on alignments. They're a great pick for setting up endless or getting specific Alignments easily.
 
-25
+**Duration:** <t:1682899200:f> to <t:1685577600:f>
 
-Aengus Og of Fomoria
-★4
-Bosses
-Paths of Fomoria: House of Nocturna
+**__What are alignments?__**
+Alignments are buffs you can give to yourself that give you extra damage for that element (e.g. Earth Alignment -> more Earthen damage) but in exchange, you get a weakness to another element. This is the case for the four faction elements (Earth is weak to Fire, which is weak to Water, which is weak to Lightning, which is weak to Earth), but the four secondary elements don't have this weakness downside.
 
-Arisen Cursed Aengus Og of Fomoria
-★10
-Bosses
-Paths of Fomoria: House of Nocturna
+<:B_Apollyon:973994754998145105> **__Followers__**  <:B_Apollyon:973994754998145105>
+○ T5 - Apollyon's Pupil (Lightning)
+○ T5 - Apollyon's Pupil (Earth)
+○ T5 - Apollyon's Pupil (Water)
+○ T5 - Apollyon's Pupil (Fire)
+○ T10 - Apollyon's Apprentice (Lightning)
+○ T10 - Apollyon's Apprentice (Earth)
+○ T10 - Apollyon's Apprentice (Water)
+○ T10 - Apollyon's Apprentice (Fire)
 
-Arisen Cursed Artio of Fomoria
-★10
-Bosses
-Paths of Fomoria: House of Nocturna
+<:B_Apollyon:973994754998145105> **__Monsters__**  <:B_Apollyon:973994754998145105>
+○ T5 - Apollyon's Pupil (Lightning)  <:mystic_cave:901749480456585226>
+○ T5 - Apollyon's Pupil (Earth) <:mystic_cave:901749480456585226>
+○ T5 - Apollyon's Pupil (Water) <:mystic_cave:901749480456585226>
+○ T5 - Apollyon's Pupil (Fire) <:mystic_cave:901749480456585226>
+○ T8 - Apollyon's Apprentice <:mystic_cave:901749480456585226>
 
-Arisen Cursed Atepomarus of Fomoria
-★10
-Bosses
-Paths of Fomoria: House of Nocturna
+<:B_Apollyon:973994754998145105> **__Kingdom Raid Bosses__**  <:B_Apollyon:973994754998145105> 
+(Spawning Methods: `KWO` - `K`ingdom, `W`orld Raid, `O`ther Means)
+○ `KW `  T5 - Young Apollyon
+○ `KW `  T10 - Beguiled Apollyon 
 
-Arisen Cursed Belenus of Fomoria
-★10
-Bosses
-Paths of Fomoria: House of Nocturna
+<:B_Apollyon:973994754998145105> **__(SOME) Items of Interest__**  <:B_Apollyon:973994754998145105>
+○ **Elemental Books (Book of \_\_\_)** - useful for proccing a specific alignment! Realmshifters, grab the Dragon one for endless!
+○ **Beguiled Mystic Katar** - very useful for Realmshifters, works very similar to a Ring of Annwn.
 
-Artio of Fomoria
-★4
-Bosses
-Paths of Fomoria: House of Nocturna
-
-Atepomarus of Fomoria
-★4
-Bosses
-Paths of Fomoria: House of Nocturna
-
-Arisen Cursed King Fomor, Nocturna
-★10
-Bosses
-Paths of Fomoria: House of Nocturna
-
-Arisen Cursed Mullo of Fomoria
-★10
-Bosses
-Paths of Fomoria: House of Nocturna
-
-Cursed King Fomor, Nocturna
-★8
-Bosses
-Paths of Fomoria: House of Nocturna
-
-Belenus of Fomoria
-★4
-Bosses
-Paths of Fomoria: House of Nocturna
-
-Cursed Mullo of Fomoria
-★8
-Bosses
-Paths of Fomoria: House of Nocturna
-
-Cursed Aengus Og of Fomoria
-★8
-Bosses
-Paths of Fomoria: House of Nocturna
-
-Cursed Artio of Fomoria
-★8
-Bosses
-Paths of Fomoria: House of Nocturna
-
-Cursed Atepomarus of Fomoria
-★8
-Bosses
-Paths of Fomoria: House of Nocturna
-
-Cursed Belenus of Fomoria
-★8
-Bosses
-Paths of Fomoria: House of Nocturna
-
-Mullo of Fomoria
-★4
-Bosses
-Paths of Fomoria: House of Nocturna
-
-King Fomor, Nocturna
-★4
-Bosses
-Paths of Fomoria: House of Nocturna
-
-Arisen Cernunnos
-Cryptid
-★10
-Followers
-Paths of Fomoria: House of Autumna
-Paths of Fomoria: House of Nocturna
-Paths of Fomoria: House of Sumner
-Paths of Fomoria: House of Wintara
-
-Arisen Glashtyn
-Cryptid
-★10
-Followers
-Paths of Fomoria: House of Autumna
-Paths of Fomoria: House of Nocturna
-Paths of Fomoria: House of Sumner
-Paths of Fomoria: House of Wintara
-
-Cernunnos
-Cryptid
-★7
-Followers
-Paths of Fomoria: House of Autumna
-Paths of Fomoria: House of Nocturna
-Paths of Fomoria: House of Sumner
-Paths of Fomoria: House of Wintara
-
-Glashtyn
-Cryptid
-★7
-Followers
-Paths of Fomoria: House of Autumna
-Paths of Fomoria: House of Nocturna
-Paths of Fomoria: House of Sumner
-Paths of Fomoria: House of Wintara
-
-Buggane
-★8
-Monsters
-Paths of Fomoria: House of Autumna
-Paths of Fomoria: House of Nocturna
-Paths of Fomoria: House of Sumner
-Paths of Fomoria: House of Wintara
-
-Cernunnos
-★7
-Monsters
-Paths of Fomoria: House of Autumna
-Paths of Fomoria: House of Nocturna
-Paths of Fomoria: House of Sumner
-Paths of Fomoria: House of Wintara
-
-Glashtyn
-★10
-Monsters
-Paths of Fomoria: House of Autumna
-Paths of Fomoria: House of Nocturna
-Paths of Fomoria: House of Sumner
-Paths of Fomoria: House of Wintara
-No more
+📘 **__Notes__** 📘
+○ When codexing, each Pupil is immune to their own element. The apprentice is immune to the other 4 elements and resists the basic 4.
+○ For the Polly raids, they both have a hard-to-proc move, being Counterattack or Refract. They're also immune to all 11 basic status effects, so bring yourself a Gargoyle!
+○ At least pick up the Tier 5 followers! They'll give you an easier Alignment than Kerberos will, only giving you the one you want. The Tier 10 pets can also help you stack up on some ward turns, but they aren't turn positive (they don't give enough ward turns on their own).
