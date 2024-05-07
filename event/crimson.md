@@ -2,7 +2,7 @@
 
 > Last Update: 1 Apr, 2024
 
-## What's new in 2023
+## What's new in 2024
 
 Nothing?!
 

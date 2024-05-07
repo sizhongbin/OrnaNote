@@ -12,6 +12,9 @@
 
 - Event Summary
 
+  - [The Plight of Apollyon - May 2024 Main](/event/apollyon.md)
+  - [Of Giants And Titans - May 2024 Mini](/event/giants.md)
+  - [Phoenixrise - May 2024 Mini](/event/phoenix.md)
   - [The Crimson Festival - Apr 2024 Main](/event/crimson.md)
   - [Sisters of Morrigan - Apr 2024 Mini](/event/morrigan.md)
   - [Lyonesse Legends - Apr 2024 Mini](/event/lyonesse.md)

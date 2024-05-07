@@ -13,5 +13,5 @@ by SzHb
 
 ## What's new
 
-- 3 Apr, 2024:
-  - Updated Apr event info
+- 7 May, 2024:
+  - Updated May event info
