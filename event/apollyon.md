@@ -9,8 +9,8 @@
 
 ## SzHb's Notes
 
-1. Get normal quality ***T5*** / ***T8*** / ***T10*** Elemental Books (X) of your faction element and dragon, which are useful for proccing a specific alignment.
-2. Get Ornate ***T0*** Beguiled Mystic Katar X, very useful for classes without steadfast.
+1. Get Normal ***T5*** / ***T8*** / ***T10*** Elemental Books (X) of your faction element and dragon, which are useful for proccing a specific alignment.
+2. Get Ornate ***T10*** Beguiled Mystic Katar X, very useful for classes without steadfast.
 3. Get Ornate ***T10*** Beguiled weapon X if you need, give you 1.3x damage for 4 faction elements with 0.5x damage for 4 secondary elements.
 
 ## SzHb's Tips
