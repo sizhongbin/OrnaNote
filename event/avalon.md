@@ -16,8 +16,6 @@
 
 ### Raids ([K]-Kingdom raid, [W]-Summoning scroll, [O]-Others)
 
-### Raids
-
 The Last Hippogriff can be summoned with crafted scrolls.
 
 - **[K/W]** ***T5*** Ingenious Cade
