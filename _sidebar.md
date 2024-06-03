@@ -12,6 +12,7 @@
 
 - Event Summary
 
+  - [Fallen Heroes of Avalon - June 2024 Main](/event/avalon.md)
   - [The Plight of Apollyon - May 2024 Main](/event/apollyon.md)
   - [Of Giants And Titans - May 2024 Mini](/event/giants.md)
   - [Phoenixrise - May 2024 Mini](/event/phoenix.md)
