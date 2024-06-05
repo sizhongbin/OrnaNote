@@ -13,5 +13,5 @@ by SzHb
 
 ## What's new
 
-- 3 June, 2024:
+- 5 June, 2024:
   - Updated June event info
