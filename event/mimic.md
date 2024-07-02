@@ -14,8 +14,8 @@
 
 ### Followers
 
-- ***T5*** Age-Old Mimic
-- ***T10*** The Mightiest Mimic
+- ***T5*** [Age-Old Mimic](https://playorna.com/codex/followers/age-old-mimic/)
+- ***T10*** [The Mightiest Mimic](https://playorna.com/codex/followers/the-mightiest-mimic/)
 
 ### Summons
 
@@ -30,9 +30,9 @@
 
 ### Raids ([K]-Kingdom raid, [W]-Summoning scroll, [O]-Others)
 
-- **[K]** ***T5*** Age-Old Mimic
-- **[K]** ***T8*** Mimic King of Kings
-- **[W]** ***T9*** The Mightiest Mimic
+- **[K]** ***T5*** [Age-Old Mimic](https://playorna.com/codex/raids/age-old-mimic/)
+- **[K]** ***T8*** [Mimic King of Kings](https://playorna.com/codex/raids/mimic-king-of-kings/)
+- **[W]** ***T9*** [The Mightiest Mimic](https://playorna.com/codex/raids/the-mightiest-mimic/)
 
 ---
 
