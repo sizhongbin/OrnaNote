@@ -8,7 +8,7 @@
 3. Get some Vulcan's Brew, a consumable that increases gold, orns, and XP by 20% for an hour.
 4. Get Ornate ***T9*** Fey Yeti Coat, a good chest piece for all classes.
 5. Get Normal ***T9*** Mightiest Mimic Head**, like the Mighty Mimic head with no negative stats and a very small boost to XP.
-6. Check the drop list of raids and get whatever you need.
+6. Check the drop list of raids and the summons. Get whatever you need.
 
 ## Event Checklist (mostly from community)
 
