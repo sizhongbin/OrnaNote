@@ -14,6 +14,8 @@
 
   - [Nothren Legends: Ragnarok - July 2024 Main](/event/ragnarok.md)
   - [Paths of Fomoria - House of Sumner - July 2024 Mini](/event/sumner.md)
+  - [The Mimics are Loose! - July 2024 Mini](/event/mimic.md)
+  - [Balor Invades - July 2024 Mini](/event/balor.md)
   - [Fallen Heroes of Avalon - June 2024 Main](/event/avalon.md)
   - [Beastfelled - June 2024 Mini](/event/kerberos.md)
   - [The Plight of Apollyon - May 2024 Main](/event/apollyon.md)
