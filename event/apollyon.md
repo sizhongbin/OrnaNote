@@ -18,7 +18,7 @@
 1. Book of Fire/Water/Lightning/Earth/Dragon/Arcane have 15% proc rate, while X version have 30%. Book of Holy/Dark have 20% proc rate, while X version have 50%.
 2. Alignments are buffs you can give to yourself that give you 1.5x damage and immune for that element. But is the case for the four faction elements, you get a weakness to another element (Earth is weak to Fire, which is weak to Water, which is weak to Lightning, which is weak to Earth).
 
-## Event Checklist (mostly from Discord)
+## Event Checklist (mostly from community)
 
 ### Followers
 
