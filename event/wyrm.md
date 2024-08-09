@@ -1,6 +1,10 @@
 # Wyrmhunt
 
-> Last Update: 31 Dec, 2023
+> Last Update: 09 Aug, 2024
+
+## What's new in 2024
+
+Nothing
 
 ## SzHb's Notes
 
@@ -9,7 +13,7 @@
 3. Get ***T6/T10*** (Ymir) Vritra Charm, accessory that gives an immunity to Stun, Paralyze, Petrify, and an extra 8% status protection. Ymir version gives +HP and +Mana so try to get Ornate quality.
 4. **[Summoner]** Get Ornate ***T8/10*** (Ymir) Beithir's Staff, 18% / 33% Summon Stats , ward and a 2H summon ability.
 5. Get some Superior or higher ***T10*** Jewel of Creation from Ymir, armor adorn that give 2% ward and some stats.
-6. Get Normal quality ***T10*** Trialing Bow / Axe / Staff for memory and quest bonus. Or get Ornate one for XP / Orns endless.
+6. Get Normal quality ***T10*** Trialing Bow / Axe / Staff for memory and quest bonus.
 
 ## Event Checklist (mostly from community)
 
@@ -56,10 +60,6 @@ They all have longer names and Godforged aura in game.
 
 ---
 
-*Remark:*
-
-*One of the best event in Orna. JoC is one of the best armor adorn. Ymir Vritra is one of the best accessory. Rare VD head. Many good gears from Ymir.*
-
-*Try to do as much regular and roost as possible.*
+*Do you know? Dragon in China, which should be translated as Loong, are not the same as dragon in the West. It symbolizes strength, bravery, invincibility, virtue, unity, intelligence, triumph, integrity, and auspiciousness.*
 
 *by SzHb*

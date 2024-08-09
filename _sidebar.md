@@ -12,6 +12,8 @@
 
 - Event Summary
 
+  - [Wyrmhunt - Aug 2024 Main](/event/wyrm.md)
+  - [The Mischievous Clurichauns - Aug 2024 Mini](event/clurichauns.md)
   - [Nothren Legends: Ragnarok - July 2024 Main](/event/ragnarok.md)
   - [Paths of Fomoria - House of Sumner - July 2024 Mini](/event/sumner.md)
   - [The Mimics are Loose! - July 2024 Mini](/event/mimic.md)
