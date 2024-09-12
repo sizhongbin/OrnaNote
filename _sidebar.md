@@ -12,6 +12,9 @@
 
 - Event Summary
 
+  - [Riftfall - Sep 2024 Main](/event/riftfall.md)
+  - [Rift Distortion  - Sep 2024 Mini](/event/distortion.md)
+  - [Fallen Heroes of Avalon - Sep 2024 Mini](/event/avalon.md)
   - [Wyrmhunt - Aug 2024 Main](/event/wyrm.md)
   - [The Mischievous Clurichauns - Aug 2024 Mini](event/clurichauns.md)
   - [Nothren Legends: Ragnarok - July 2024 Main](/event/ragnarok.md)
