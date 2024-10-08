@@ -1,72 +1,81 @@
 # The Hallowed!
 
-> Last Update: 29 Oct, 2023
+> Last Update: 8 Oct, 2024
 
 ## SzHb's Notes
-1. 7 Quests.
-2. Get ***T10*** Aglovale from quest. Need 5 ***T10*** Old Hallowed Blade from Arisen Pumpkinhead for the quest.
-3. Get some hallowed candle(5% xp boost) from (Arisen) Pumpkinhead for Exp farming.
-4. Get some Small Bestial Potions(5% follower act), Ichor and Great Monster Remains from ***T4*** Pumpkin Spider.
-5. Get ***T9*** Onryo pet, which can cause Def↓↓, Res↓↓ and Confused.
-6. Get ***T8*** Very Scary Skeleton skill, which can cause t.Def↓↓ and t.Res↓↓.
-7. Get high quality Arisen Pumpkinless Armor and Leggings if you need, which can increase two-handed damage. 
 
-## Event Checklist (mostly from Discord)
+### Goodies
+
+1. Hallowed Candle
+   - 1.05x XP boost item
+   - From (Arisen) Pumpkinhead
+   - For XP farming
+2. Arisen Pumpkinless Gears
+   - Low def, high HP, 2H bonus
+   - From Arisen Pumpkinless
+   - BIS BoF Gears
+3. Summon Very Scary Skeleton
+   - Cause t.Def↓↓ and t.Res↓↓
+   - From Arcanist and Monumental Guild
+   - Good summon for raid
+
+### Tips
+
+1. Find event mobs in Towers and Monuments.
+
+## Event Checklist (mostly from community)
 
 ### Followers
-- ***T6*** Scarecrow
-- ***T8*** Pumpkinhead
-- ***T9*** Onryo
+- ***T6*** [Scarecrow](https://codex.fqegg.top/#/codex/followers/scarecrow/)
+- ***T6*** [Scary Skeleton](https://codex.fqegg.top/#/codex/followers/scary-skeleton/)
+- ***T7*** [Spooky Ghost](https://codex.fqegg.top/#/codex/followers/spooky-ghost/)
+- ***T8*** [Pumpkinhead](https://codex.fqegg.top/#/codex/followers/pumpkinhead/)
+- ***T9*** [Onryo](https://codex.fqegg.top/#/codex/followers/onryo/)
+- ***T9*** [Very Scary Skeleton](https://codex.fqegg.top/#/codex/followers/very-scary-skeleton/)
 
-### Raids ([K]-Kingdom raid, [W]-Summoning scroll, [O]-Others)
+### Raids
 
-(Arisen) Pumpkinless is summoned by (Arisen) Hallowed Summoning Scroll, which can be crafted in Herbalist.
+> Shows up in: 
+> - [K]-Kingdom raid
+> - [W]-Summoning scroll
+> - [C]-Crafted scroll
 
-- **[K]** ***T4*** Pumpkin Spider
-- **[K/W]** ***T8*** Pumpkinhead
-- **[O]** ***T8*** Pumpkinless
-- **[K/W]** ***T10*** Arisen Pumpkinhead
-- **[O]** ***T10*** Arisen Pumpkinless
+- **[K]** ***T4*** [Pumpkin Spider](https://codex.fqegg.top/#/codex/raids/pumpkin-spider/)
+- **[K/W]** ***T8*** [Pumpkinhead](https://codex.fqegg.top/#/codex/raids/pumpkinhead/)
+- **[C]** ***T8*** [Pumpkinless](https://codex.fqegg.top/#/codex/raids/pumpkinless/)
+- **[K/W]** ***T10*** [Arisen Pumpkinhead](https://codex.fqegg.top/#/codex/raids/arisen-pumpkinhead/)
+- **[C]** ***T10*** [Arisen Pumpkinless](https://codex.fqegg.top/#/codex/raids/arisen-pumpkinless/)
+
+### Bosses
+
+- ***T4*** [Spooky Ghost](https://codex.fqegg.top/#/codex/bosses/spooky-ghost/)
+- ***T8*** [Terrifying Ghost](https://codex.fqegg.top/#/codex/bosses/terrifying-ghost/)
 
 ### Monsters
-- ***T3*** Vampire
-- ***T4*** Ghost
-- ***T4*** Witch
-- ***T5*** Mummy
-- ***T5*** Skeleton
-- ***T5*** Undead
-- ***T8*** Pumpkin Spider
-- ***T10*** Scarecrow
 
-### Skills
+- ***T1*** [Frightening Skeleton](https://codex.fqegg.top/#/codex/monsters/frightening-skeleton/)
+- ***T3*** [Vampire](https://codex.fqegg.top/#/codex/monsters/vampire-6bb40b71/)
+- ***T4*** [Ghost](https://codex.fqegg.top/#/codex/monsters/ghost-6719abf3/)
+- ***T4*** [Witch](https://codex.fqegg.top/#/codex/monsters/witch/)
+- ***T4*** [Scary Skeleton](https://codex.fqegg.top/#/codex/monsters/scary-skeleton/)
+- ***T5*** [Mummy](https://codex.fqegg.top/#/codex/monsters/mummy/)
+- ***T5*** [Skeleton](https://codex.fqegg.top/#/codex/monsters/skeleton-96a555cc/)
+- ***T5*** [Undead](https://codex.fqegg.top/#/codex/monsters/undead/)
+- ***T8*** [Pumpkin Spider](https://codex.fqegg.top/#/codex/monsters/pumpkin-spider/)
+- ***T8*** [Onryo](https://codex.fqegg.top/#/codex/monsters/onryo/)
+- ***T8*** [Very Scary Skeleton](https://codex.fqegg.top/#/codex/monsters/very-scary-skeleton/)
+- ***T10*** [Scarecrow](https://codex.fqegg.top/#/codex/monsters/scarecrow/)
+
+### Summons
+
 - ***T8*** Onryo
 - ***T8*** Very Scary Skeleton
 - ***T9*** Hati
 - ***T9*** Spooky Ghost
 - ***T10*** Scarecrow
 
-### Questline
-
-Talk to Feralia in the world to start questline.
-
-- Quest 1: Dried Oak(1)
-- Quest 2: Rotten Leaves(1)
-- Quest 3: Refined Sugar(1)
-- Quest 4: Tattered Clothwrap(1)
-- Quest 5: Chiroptera Remains(1)
-- Quest 6: Fragment of the Planet's Core(1)
-  - Reward: Hallowed Blade
-- Quest 7: Hallowed Blade(1) + Old Hallowed Blade(5)
-  - Reward: Aglovale
-
-Each of the quest monsters has a little pumpkin pail. You'll find them in the world. See a helpful mob-to-item visual here, courtesy of Waifugeddon:
-
-![visual](../images/The_Hallowed.png "visual")
-
 ---
 
-*Remark:*
-
-*Event mobs too rare. Just give up the pumpkinless if you don't have much time for world mobs farming.*
+*When I was a child, I didn't like to eat pumpkin, not even a bite.*
 
 *by SzHb*
