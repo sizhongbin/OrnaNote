@@ -21,7 +21,12 @@
 
 ### Tips
 
-1. Find event mobs in Towers and Monuments.
+1. You can find event mobs in:
+   - World, except Skeleton/Witch/Ghost/Pumpkin Spider
+   - Dungeon, except Undead/Mummy/Vampire/Pumpkin Spider
+   - Monument
+   - Tower, except Pumpkin Spider
+   - Rift, except Pumpkin Spider/Spooky Ghost/Terrifying Ghost
 
 ## Event Checklist (mostly from community)
 
