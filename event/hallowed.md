@@ -1,6 +1,6 @@
 # The Hallowed!
 
-> Last Update: 8 Oct, 2024
+> Last Update: 9 Oct, 2024
 
 ## <u>SzHb's Notes</u>
 
