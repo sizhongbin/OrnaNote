@@ -50,15 +50,15 @@
 ### Raids
 
 > [!NOTE]
-> - `K` = `K`ingdom raid
-> - `W` = `W`orld raid from summoning scroll
-> - `O` = `O`ther raid from crafted scroll
+> `K`= **K**ingdom raid <br>
+> `W`= **W**orld raid from summoning scroll <br>
+> `O`= **O**ther raid from crafted scroll
 
-- `K  ` ***T4*** [Pumpkin Spider](https://codex.fqegg.top/#/codex/raids/pumpkin-spider/)
-- `KW ` ***T8*** [Pumpkinhead](https://codex.fqegg.top/#/codex/raids/pumpkinhead/)
-- `  O` ***T8*** [Pumpkinless](https://codex.fqegg.top/#/codex/raids/pumpkinless/)
-- `KW ` ***T10*** [Arisen Pumpkinhead](https://codex.fqegg.top/#/codex/raids/arisen-pumpkinhead/)
-- `  O` ***T10*** [Arisen Pumpkinless](https://codex.fqegg.top/#/codex/raids/arisen-pumpkinless/)
+- `K  `***T4*** [Pumpkin Spider](https://codex.fqegg.top/#/codex/raids/pumpkin-spider/)
+- `KW `***T8*** [Pumpkinhead](https://codex.fqegg.top/#/codex/raids/pumpkinhead/)
+- `  O`***T8*** [Pumpkinless](https://codex.fqegg.top/#/codex/raids/pumpkinless/)
+- `KW `***T10*** [Arisen Pumpkinhead](https://codex.fqegg.top/#/codex/raids/arisen-pumpkinhead/)
+- `  O`***T10*** [Arisen Pumpkinless](https://codex.fqegg.top/#/codex/raids/arisen-pumpkinless/)
 
 ### Bosses
 
