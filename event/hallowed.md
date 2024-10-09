@@ -27,6 +27,13 @@
    - Monument
    - Tower, except Pumpkin Spider
    - Rift, except Pumpkin Spider/Spooky Ghost/Terrifying Ghost
+2. You can find event materials from:
+   - Dried Oak: Skeleton
+   - Rotten Leaves: Undead
+   - Refined Sugar: Witch
+   - Tattered Clothwrap: Mummy
+   - Chiroptera Remains: Vampire
+   - Fragment of the Planet's Core: Ghost
 
 ## Event Checklist (mostly from community)
 
@@ -40,16 +47,16 @@
 
 ### Raids
 
-> Shows up in: 
-> - [K]-Kingdom raid
-> - [W]-Summoning scroll
-> - [C]-Crafted scroll
+> [!NOTE]
+> - `K` = `K`ingdom raid
+> - `W` = `W`orld raid from summoning scroll
+> - `O` = `O`ther raid from crafted scroll
 
-- **[K]** ***T4*** [Pumpkin Spider](https://codex.fqegg.top/#/codex/raids/pumpkin-spider/)
-- **[K/W]** ***T8*** [Pumpkinhead](https://codex.fqegg.top/#/codex/raids/pumpkinhead/)
-- **[C]** ***T8*** [Pumpkinless](https://codex.fqegg.top/#/codex/raids/pumpkinless/)
-- **[K/W]** ***T10*** [Arisen Pumpkinhead](https://codex.fqegg.top/#/codex/raids/arisen-pumpkinhead/)
-- **[C]** ***T10*** [Arisen Pumpkinless](https://codex.fqegg.top/#/codex/raids/arisen-pumpkinless/)
+- `K  ` ***T4*** [Pumpkin Spider](https://codex.fqegg.top/#/codex/raids/pumpkin-spider/)
+- `KW ` ***T8*** [Pumpkinhead](https://codex.fqegg.top/#/codex/raids/pumpkinhead/)
+- `  O` ***T8*** [Pumpkinless](https://codex.fqegg.top/#/codex/raids/pumpkinless/)
+- `KW ` ***T10*** [Arisen Pumpkinhead](https://codex.fqegg.top/#/codex/raids/arisen-pumpkinhead/)
+- `  O` ***T10*** [Arisen Pumpkinless](https://codex.fqegg.top/#/codex/raids/arisen-pumpkinless/)
 
 ### Bosses
 
