@@ -15,7 +15,7 @@
    - From Arisen Pumpkinless
    - BIS BoF Gears
 3. Summon Very Scary Skeleton
-   - Cause t.Def↓↓ and t.Res↓↓
+   - T8, cause t.Def↓↓ and t.Res↓↓
    - From Arcanist and Monumental Guild
    - Good summon for raid
 
@@ -82,11 +82,11 @@
 
 ### Summons
 
-- ***T8*** Onryo
-- ***T8*** Very Scary Skeleton
-- ***T9*** Hati
-- ***T9*** Spooky Ghost
-- ***T10*** Scarecrow
+- ***T8*** [Onryo](https://codex.fqegg.top/#/codex/spells/summon-onryo/)
+- ***T8*** [Very Scary Skeleton](https://codex.fqegg.top/#/codex/spells/summon-very-scary-skeleton/)
+- ***T9*** [Hati](https://codex.fqegg.top/#/codex/spells/summon-hati/)
+- ***T9*** [Spooky Ghost](https://codex.fqegg.top/#/codex/spells/summon-spooky-ghost/)
+- ***T10*** [Scarecrow](https://codex.fqegg.top/#/codex/spells/summon-scarecrow/)
 
 ---
 

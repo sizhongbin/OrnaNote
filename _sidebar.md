@@ -12,6 +12,10 @@
 
 - Event Summary
 
+  - [The Hallowed! - Oct 2024 Main](/event/hallowed.md)
+  - [Paths of Fomoria - House of Autumna - Oct 2024 Mini](/event/autumna.md)
+  - [Thronemakers - Oct 2024 Mini](/event/thronemakers.md)
+  - [Lyonesse Legends - Oct 2024 Mini](/event/lyonesse.md)
   - [Riftfall - Sep 2024 Main](/event/riftfall.md)
   - [Rift Distortion  - Sep 2024 Mini](/event/distortion.md)
   - [Fallen Heroes of Avalon - Sep 2024 Mini](/event/avalon.md)
