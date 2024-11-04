@@ -12,6 +12,9 @@
 
 - Event Summary
 
+  - [Of Giants And Titans - Nov 2024 Main](/event/giants.md)
+  - [The Crimson Festival - Nov 2024 Mini](/event/crimson.md)
+  - [Sisters of Morrigan - Nov 2024 Mini](/event/morrigan.md)
   - [The Hallowed! - Oct 2024 Main](/event/hallowed.md)
   - [Paths of Fomoria - House of Autumna - Oct 2024 Mini](/event/autumna.md)
   - [Thronemakers - Oct 2024 Mini](/event/thronemakers.md)
