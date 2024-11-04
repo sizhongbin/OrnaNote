@@ -9,12 +9,12 @@
 1. Solarite Mortar
    - +2% two-handed damage, weapon adorn
    - From Ophion
-   - For two-handed non-crid build
-2. Mountain Acorn (Aegir)
+   - For two-handed non-crit build
+2. Mountain Acorn
    - Regen 0.5% of max mana, armor adorn
    - From Aegir
    - For dungeon/endless run
-3. Tree Nut (Gymir)
+3. Tree Nut
    - +3% collateral damage chance, armor adorn
    - From Gymir
    - For collateral build
