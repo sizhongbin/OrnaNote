@@ -7,7 +7,7 @@
 1. Get 2 ***T7*** Lugus Gauntlets (any quality) from raid.
 2. All Dagda gears can be dismantled for Twilightstone, which is hard to get normally.
 
-## Event Checklist (mostly from Discord)
+## Event Checklist (mostly from community)
 
 ### Followers
 

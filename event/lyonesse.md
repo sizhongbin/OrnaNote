@@ -7,7 +7,7 @@
 1. **[Beowulf]** Get ***T6*** Lindworm, one of the best raid damage pet.
 2. **[Two-handed build]** Get 2 ***T9*** Arisen Trevelyan's Charm (Any quality) from ***T9*** Arisen Warlock Trevelyan, gives a 15% stat boost when wielding a two-handed weapon.
 
-## Event Checklist (mostly from Discord)
+## Event Checklist (mostly from community)
 
 ### Followers
 

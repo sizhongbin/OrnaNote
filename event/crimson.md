@@ -14,7 +14,7 @@ Nothing?!
 4. **[Summoner]** get a ***T9*** Goat's Hood (any quality) from ***T9*** Tricky Aries, which -600 foresight that will make you act after your party member when you need to.
 5. **[Ascension]** All Perseus gears can be dismantled for ancient stone.
 
-## Event Checklist (mostly from Discord)
+## Event Checklist (mostly from community)
 
 ### Followers
 

@@ -2,7 +2,7 @@
 
 > Last Update: 9 Oct, 2024
 
-## <u>SzHb's Notes</u>
+## SzHb's Notes
 
 ### Goodies
 
@@ -24,13 +24,10 @@
    - Wintara: Buffs sometimes also apply to party mates. Positive status effects last longer.
 2. Gears from Crest of Nocturna/Autumna/Sumner/Wintara have all the weakened house effects.
 
----
-
-## <u>Event Checklist (mostly from community)</u>
+## Event Checklist (mostly from community)
 
 ### Bosses
 
-> [!NOTE]
 > The following bosses will spawn in world when its rainy (or during scroll of chaos), as well as in Chaos Portal. They can be only damaged by status effect.
 
 - ***T4*** [Sabrina of Fomoria](https://codex.fqegg.top/#/codex/bosses/sabrina-of-fomoria/)
@@ -49,7 +46,6 @@
 - ***T10*** [Arisen Cursed Damona of Fomoria](https://codex.fqegg.top/#/codex/bosses/arisen-cursed-damona-of-fomoria/)
 - ***T10*** [Arisen Cursed Clota of Fomoria](https://codex.fqegg.top/#/codex/bosses/arisen-cursed-clota-of-fomoria/)
 
-> [!NOTE]
 > The following bosses are summoned by Crest of Autumna.
 
 - ***T4*** [King Fomor, Autumna](https://codex.fqegg.top/#/codex/bosses/king-fomor-autumna/)<sup>*Godforged Aura</sup>
@@ -57,9 +53,6 @@
 - ***T10*** [Arisen Cursed King Fomor, Autumna](https://codex.fqegg.top/#/codex/bosses/arisen-cursed-king-fomor-autumna/)<sup>*Godforged Aura</sup>
 
 ### Monsters 
-
-> [!NOTE]
-> The following mobs will spawn in Regular Dungeon and Beast Den.
 
 - ***T7*** [Cernunnos](https://codex.fqegg.top/#/codex/monsters/cernunnos/)
 - ***T8*** [Buggane](https://codex.fqegg.top/#/codex/monsters/buggane/)

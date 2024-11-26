@@ -2,7 +2,7 @@
 
 > Last Update: 9 Oct, 2024
 
-## <u>SzHb's Notes</u>
+## SzHb's Notes
 
 ### Goodies
 
@@ -35,9 +35,7 @@
    - Chiroptera Remains: Vampire
    - Fragment of the Planet's Core: Ghost
 
----
-
-## <u>Event Checklist (mostly from community)</u>
+## Event Checklist (mostly from community)
 
 ### Followers
 - ***T6*** [Scarecrow](https://codex.fqegg.top/#/codex/followers/scarecrow/)
@@ -49,7 +47,6 @@
 
 ### Raids
 
-> [!NOTE]
 > `K`= **K**ingdom raid <br>
 > `W`= **W**orld raid from summoning scroll <br>
 > `O`= **O**ther raid from crafted scroll

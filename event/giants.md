@@ -2,7 +2,7 @@
 
 > Last Update: 4 Nov, 2024
 
-## <u>SzHb's Notes</u>
+## SzHb's Notes
 
 ### Goodies
 
@@ -28,26 +28,23 @@
 1. Get Stardrop and Moondrop as much as possible from regular dungeon.
 2. Keep Stardrop till T10 for Godforge. Spare no Moondrop for leveling.
 
----
-
-## <u>Event Checklist (mostly from community)</u>
+## Event Checklist (mostly from community)
 
 ### Monsters
 
-The following mobs are only available after starting the Stardrop quest, and will drop Stardrop.
+> The following mobs are only available after starting the Stardrop quest, and will drop Stardrop.
 
 - ***T6*** [Fallen Starseeker](https://codex.fqegg.top/#/codex/monsters/fallen-starseeker/)
 - ***T7*** [Fallen Zwei-Caster](https://codex.fqegg.top/#/codex/monsters/fallen-zwei-caster/)
 - ***T7*** [Fallen Zwei-Fencer](https://codex.fqegg.top/#/codex/monsters/fallen-zwei-fencer/)
 
-The following mobs are only available after starting the Moondrop quest, and will drop Moondrop.
+> The following mobs are only available after starting the Moondrop quest, and will drop Moondrop.
 
 - ***T8*** [Fallen Moonchaser](https://codex.fqegg.top/#/codex/monsters/fallen-moonchaser/)
 - ***T10*** [Fallen Crescent-Fencer](https://codex.fqegg.top/#/codex/monsters/fallen-crescent-fencer/)
 
 ### Raids
 
-> [!NOTE]
 > `K`= **K**ingdom raid <br>
 > `W`= **W**orld raid from summoning scroll <br>
 > `O`= **O**ther raid from Moondrop
@@ -62,7 +59,7 @@ The following mobs are only available after starting the Moondrop quest, and wil
 
 ### Bosses
 
-Summoned by Stardrop.
+> The following bosses can be summoned by Stardrop.
 
 - ***T6*** [Aegir](https://codex.fqegg.top/#/codex/bosses/aegir/)
 - ***T8*** [Eistla](https://codex.fqegg.top/#/codex/bosses/eistla/)
@@ -73,13 +70,13 @@ Summoned by Stardrop.
 
 ### Followers
 
-The following followers are obtained via Jotunheim Mnemonic.
+> The following followers are obtained via Jotunheim Mnemonic.
 
 - ***T6*** [Aegir](https://codex.fqegg.top/#/codex/followers/aegir/)
 - ***T7*** [Gymir](https://codex.fqegg.top/#/codex/followers/gymir/)
 - ***T8*** [Eistla](https://codex.fqegg.top/#/codex/followers/eistla/)
 
-The following followers are obtained via Olympia Mnemonic.
+> The following followers are obtained via Olympia Mnemonic.
 
 - ***T10*** [Asteria of Olympia](https://codex.fqegg.top/#/codex/followers/asteria-of-olympia/)
 - ***T10*** [Atlas of Olympia](https://codex.fqegg.top/#/codex/followers/atlas-of-olympia/)

@@ -7,7 +7,7 @@
 2. Get ***T10*** Fey Chimera pet, an upgrade of ***T10*** Chimera pet.
 3. High chance for ***T10*** Arisen Morrigan from summoning scroll. Spare no scrolls if you are looking for fey a.morri gears.
 
-## Event Checklist (mostly from Discord)
+## Event Checklist (mostly from community)
 
 ### Followers
 - ***T6*** Fey Gazer
