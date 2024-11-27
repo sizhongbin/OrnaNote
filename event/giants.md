@@ -46,7 +46,6 @@
 ### Raids
 
 > `K`= **K**ingdom raid <br>
-> `W`= **W**orld raid from summoning scroll <br>
 > `O`= **O**ther raid from Moondrop
 
 - `  O` ***T8*** [Asteria of Olympia](https://codex.fqegg.top/#/codex/raids/asteria-of-olympia/)

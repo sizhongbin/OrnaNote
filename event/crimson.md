@@ -1,71 +1,72 @@
 # The Crimson Festival
 
-> Last Update: 1 Apr, 2024
-
-## What's new in 2024
-
-Nothing?!
+> Last Update: 26 Nov, 2024
 
 ## SzHb's Notes
 
-1. 1 quest. 
-2. **[Crit build]** Get some ***T9*** Ferocious Bull's Eye from ***T9*** Ferocious Cerus, a weapon adornment which gives att/mag/mana/4% crit.
-3. **[Crit build]** Get some ***T9*** Gorgon's Eye from ***T9*** Noble Perseus, a weapon adornment which gives 4% crit + 3% status protection, but -30 mana.
-4. **[Summoner]** get a ***T9*** Goat's Hood (any quality) from ***T9*** Tricky Aries, which -600 foresight that will make you act after your party member when you need to.
-5. **[Ascension]** All Perseus gears can be dismantled for ancient stone.
+### Goodies
+
+1. Ferocious Bull's Eye
+   - 4% crit weapon adorn with some stats
+   - From Ferocious Cerus
+   - Good adorn for non-celestial crit weapon
+2. Gorgon's Eye
+   - 4% crit weapon adorn with status protection
+   - From Noble Perseus
+   - Good adorn for non-celestial crit weapon
+3. Goat's Hood
+   - -600 foresight
+   - From Tricky Aries
+   - For summoners in party play
+
+### Tips
+
+1. All Perseus gears can be dismantled for ancient stone.
 
 ## Event Checklist (mostly from community)
 
 ### Followers
 
-- ***T7*** Cerus
-- ***T9*** Raging Cerus
-- ***T9*** Untamed Cerus
-- ***T10*** Medusa
+- ***T7&nbsp;*** [Cerus](https://codex.fqegg.top/#/codex/followers/cerus/)
+- ***T9&nbsp;*** [Raging Cerus](https://codex.fqegg.top/#/codex/followers/raging-cerus/)
+- ***T9&nbsp;*** [Untamed Cerus](https://codex.fqegg.top/#/codex/followers/untamed-cerus/)
+- ***T10*** [Medusa](https://codex.fqegg.top/#/codex/followers/medusa/)
 
-### Raids ([K]-Kingdom raid, [W]-Summoning scroll, [O]-Others)
+### Raids
 
-In order to summon the [O] raids, you'll need to craft Crimson Summoning Scrolls. This can be done in a Herbalist by combining a regular Summoning Scroll and 10 of an essence. Essence is dropped by the monsters, which can be found in dungeons and in the world.
+> `K`= **K**ingdom raid <br>
+> `O`= **O**ther raid from Crimson Summoning Scrolls 
 
-- **[K/O]** ***T6*** Aries
-- **[O]** ***T9*** Aloof Aries
-- **[K/O]** ***T9*** Tricky Aries
-- **[K/O]** ***T6*** Cerus
-- **[O]** ***T9*** Ferocious Cerus
-- **[K/O]** ***T9*** Furious Cerus
-- **[K/O]** ***T6*** Perseus
-- **[O]** ***T9*** Noble Perseus
-- **[K/O]** ***T9*** Untarnished Perseus
+- `K O` ***T6&nbsp;*** [Aries](https://codex.fqegg.top/#/codex/raids/aries/)
+- `  O` ***T9&nbsp;*** [Aloof Aries](https://codex.fqegg.top/#/codex/raids/aloof-aries/)
+- `K O` ***T9&nbsp;*** [Tricky Aries](https://codex.fqegg.top/#/codex/raids/tricky-aries/)
+- `K O` ***T6&nbsp;*** [Cerus](https://codex.fqegg.top/#/codex/raids/cerus/)
+- `  O` ***T9&nbsp;*** [Ferocious Cerus](https://codex.fqegg.top/#/codex/raids/ferocious-cerus/)
+- `K O` ***T9&nbsp;*** [Furious Cerus](https://codex.fqegg.top/#/codex/raids/furious-cerus/)
+- `K O` ***T6&nbsp;*** [Perseus](https://codex.fqegg.top/#/codex/raids/perseus/)
+- `  O` ***T9&nbsp;*** [Noble Perseus](https://codex.fqegg.top/#/codex/raids/noble-perseus/)
+- `K O` ***T9&nbsp;*** [Untarnished Perseus](https://codex.fqegg.top/#/codex/raids/untarnished-perseus/)
 
 ### Boss
 
-- ***T10*** Medusa (*Godforge aura)
+- ***T10*** [Medusa](https://codex.fqegg.top/#/codex/bosses/medusa/)<sup>*Godforge aura</sup>
 
 ### Monsters
 
-Event monsters have the same name but 3 different tiers.
+!> Event monsters have the same name but 3 different tiers.
 
-- ***T7*** Aries Acolyte
-- ***T7*** Cerus Acolyte
-- ***T7*** Perseus Acolyte
-- ***T9*** Aries Acolyte
-- ***T9*** Cerus Acolyte
-- ***T9*** Perseus Acolyte
-- ***T10*** Aries Acolyte
-- ***T10*** Cerus Acolyte
-- ***T10*** Perseus Acolyte
-
-### Quests
-
-1. Ariadne's Request
-- Find Crimson Summoning Scroll (Aries) (1)
-- Find Crimson Summoning Scroll (Cerus) (1)
-- Find Crimson Summoning Scroll (Perseus) (1)
+- ***T7&nbsp;*** [Aries Acolyte](https://codex.fqegg.top/#/codex/monsters/aries-acolyte/)
+- ***T7&nbsp;*** [Cerus Acolyte](https://codex.fqegg.top/#/codex/monsters/cerus-acolyte-73d59be2/)
+- ***T7&nbsp;*** [Perseus Acolyte](https://codex.fqegg.top/#/codex/monsters/perseus-acolyte-f1d8afb3/)
+- ***T9&nbsp;*** [Aries Acolyte](https://codex.fqegg.top/#/codex/monsters/aries-acolyte-a1881496/)
+- ***T9&nbsp;*** [Cerus Acolyte](https://codex.fqegg.top/#/codex/monsters/cerus-acolyte-5965f9aa/)
+- ***T9&nbsp;*** [Perseus Acolyte](https://codex.fqegg.top/#/codex/monsters/perseus-acolyte/)
+- ***T10*** [Aries Acolyte](https://codex.fqegg.top/#/codex/monsters/aries-acolyte-738a517f/)
+- ***T10*** [Cerus Acolyte](https://codex.fqegg.top/#/codex/monsters/cerus-acolyte/)
+- ***T10*** [Perseus Acolyte](https://codex.fqegg.top/#/codex/monsters/perseus-acolyte-ff80be87/)
 
 ---
 
-*Remark:*
-
-*One of the best event in Orna. 4% crit weapon adornment is a MUST for crit build. Personally i will try to get at least 10 of both.*
+*Red is the most popular color in China. You can find it everywhere during festivals and weddings. It symbolizes fortune, happiness and prosperity.*
 
 *by SzHb*

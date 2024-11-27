@@ -30,16 +30,16 @@
 
 > The following bosses will spawn in world when its rainy (or during scroll of chaos), as well as in Chaos Portal. They can be only damaged by status effect.
 
-- ***T4*** [Sabrina of Fomoria](https://codex.fqegg.top/#/codex/bosses/sabrina-of-fomoria/)
-- ***T4*** [Sequana of Fomoria](https://codex.fqegg.top/#/codex/bosses/sequana-of-fomoria/)<sup>*Godforged Aura</sup>
-- ***T4*** [Niskus of Fomoria](https://codex.fqegg.top/#/codex/bosses/niskus-of-fomoria/)
-- ***T4*** [Damona of Fomoria](https://codex.fqegg.top/#/codex/bosses/damona-of-fomoria/)
-- ***T4*** [Clota of Fomoria](https://codex.fqegg.top/#/codex/bosses/clota-of-fomoria/)
-- ***T8*** [Cursed Sabrina of Fomoria](https://codex.fqegg.top/#/codex/bosses/cursed-sabrina-of-fomoria/)
-- ***T8*** [Cursed Sequana of Fomoria](https://codex.fqegg.top/#/codex/bosses/cursed-sequana-of-fomoria/)<sup>*Godforged Aura</sup>
-- ***T8*** [Cursed Niskus of Fomoria](https://codex.fqegg.top/#/codex/bosses/cursed-niskus-of-fomoria/)
-- ***T8*** [Cursed Damona of Fomoria](https://codex.fqegg.top/#/codex/bosses/cursed-damona-of-fomoria/)
-- ***T8*** [Cursed Clota of Fomoria](https://codex.fqegg.top/#/codex/bosses/cursed-clota-of-fomoria/)
+- ***T4&nbsp;*** [Sabrina of Fomoria](https://codex.fqegg.top/#/codex/bosses/sabrina-of-fomoria/)
+- ***T4&nbsp;*** [Sequana of Fomoria](https://codex.fqegg.top/#/codex/bosses/sequana-of-fomoria/)<sup>*Godforged Aura</sup>
+- ***T4&nbsp;*** [Niskus of Fomoria](https://codex.fqegg.top/#/codex/bosses/niskus-of-fomoria/)
+- ***T4&nbsp;*** [Damona of Fomoria](https://codex.fqegg.top/#/codex/bosses/damona-of-fomoria/)
+- ***T4&nbsp;*** [Clota of Fomoria](https://codex.fqegg.top/#/codex/bosses/clota-of-fomoria/)
+- ***T8&nbsp;*** [Cursed Sabrina of Fomoria](https://codex.fqegg.top/#/codex/bosses/cursed-sabrina-of-fomoria/)
+- ***T8&nbsp;*** [Cursed Sequana of Fomoria](https://codex.fqegg.top/#/codex/bosses/cursed-sequana-of-fomoria/)<sup>*Godforged Aura</sup>
+- ***T8&nbsp;*** [Cursed Niskus of Fomoria](https://codex.fqegg.top/#/codex/bosses/cursed-niskus-of-fomoria/)
+- ***T8&nbsp;*** [Cursed Damona of Fomoria](https://codex.fqegg.top/#/codex/bosses/cursed-damona-of-fomoria/)
+- ***T8&nbsp;*** [Cursed Clota of Fomoria](https://codex.fqegg.top/#/codex/bosses/cursed-clota-of-fomoria/)
 - ***T10*** [Arisen Cursed Sabrina of Fomoria](https://codex.fqegg.top/#/codex/bosses/arisen-cursed-sabrina-of-fomoria/)
 - ***T10*** [Arisen Cursed Sequana of Fomoria](https://codex.fqegg.top/#/codex/bosses/arisen-cursed-sequana-of-fomoria/)<sup>*Godforged Aura</sup>
 - ***T10*** [Arisen Cursed Niskus of Fomoria](https://codex.fqegg.top/#/codex/bosses/arisen-cursed-niskus-of-fomoria/)
@@ -48,27 +48,27 @@
 
 > The following bosses are summoned by Crest of Autumna.
 
-- ***T4*** [King Fomor, Autumna](https://codex.fqegg.top/#/codex/bosses/king-fomor-autumna/)<sup>*Godforged Aura</sup>
-- ***T8*** [Cursed King Fomor, Autumna](https://codex.fqegg.top/#/codex/bosses/cursed-king-fomor-autumna/)<sup>*Godforged Aura</sup>
+- ***T4&nbsp;*** [King Fomor, Autumna](https://codex.fqegg.top/#/codex/bosses/king-fomor-autumna/)<sup>*Godforged Aura</sup>
+- ***T8&nbsp;*** [Cursed King Fomor, Autumna](https://codex.fqegg.top/#/codex/bosses/cursed-king-fomor-autumna/)<sup>*Godforged Aura</sup>
 - ***T10*** [Arisen Cursed King Fomor, Autumna](https://codex.fqegg.top/#/codex/bosses/arisen-cursed-king-fomor-autumna/)<sup>*Godforged Aura</sup>
 
 ### Monsters 
 
-- ***T7*** [Cernunnos](https://codex.fqegg.top/#/codex/monsters/cernunnos/)
-- ***T8*** [Buggane](https://codex.fqegg.top/#/codex/monsters/buggane/)
+- ***T7&nbsp;*** [Cernunnos](https://codex.fqegg.top/#/codex/monsters/cernunnos/)
+- ***T8&nbsp;*** [Buggane](https://codex.fqegg.top/#/codex/monsters/buggane/)
 - ***T10*** [Glashtyn](https://codex.fqegg.top/#/codex/monsters/glashtyn/)
 
 ### Followers
 
-- ***T7*** [Cernunnos](https://codex.fqegg.top/#/codex/followers/cernunnos/)
-- ***T7*** [Glashtyn](https://codex.fqegg.top/#/codex/followers/glashtyn/)
+- ***T7&nbsp;*** [Cernunnos](https://codex.fqegg.top/#/codex/followers/cernunnos/)
+- ***T7&nbsp;*** [Glashtyn](https://codex.fqegg.top/#/codex/followers/glashtyn/)
 - ***T10*** [Arisen Cernunnos](https://codex.fqegg.top/#/codex/followers/arisen-cernunnos/)
 - ***T10*** [Arisen Glashtyn](https://codex.fqegg.top/#/codex/followers/arisen-glashtyn/)
 
 ### Summons
 
-- ***T7*** [Cernunnos](https://codex.fqegg.top/#/codex/spells/summon-cernunnos/)
-- ***T8*** [Buggane](https://codex.fqegg.top/#/codex/spells/summon-buggane/)
+- ***T7&nbsp;*** [Cernunnos](https://codex.fqegg.top/#/codex/spells/summon-cernunnos/)
+- ***T8&nbsp;*** [Buggane](https://codex.fqegg.top/#/codex/spells/summon-buggane/)
 - ***T10*** [Glashtyn](https://codex.fqegg.top/#/codex/spells/summon-glashtyn/)
 
 ---
