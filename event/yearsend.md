@@ -1,7 +1,5 @@
 # Stop Scruug!
 
-> Last Update: 08 Dec, 2023
-
 ## What's new in 2023
 
 1. Event name changed.

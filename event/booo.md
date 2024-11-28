@@ -1,7 +1,5 @@
 # BoooOOOOooooOOOooo
 
-> Last Update: 27 Oct, 2023
-
 ## SzHb's Notes
 1. No quests.
 2. Get ***T6*** Scary Skeleton or ***T9*** Very Scary Skeleton pet, which can cause Lulled, T.Def↓↓ and T.Res↓↓.

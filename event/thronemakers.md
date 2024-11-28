@@ -1,7 +1,5 @@
 # Thronemakers
 
-> Last Update: 5 Mar, 2024
-
 ## What's new in 2024
 
 Brand new event.

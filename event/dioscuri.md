@@ -1,7 +1,5 @@
 # The Dioscuri
 
-> Last Update: 31 Jan, 2024
-
 ## SzHb's Notes
 1. Get some ***T3*** Dioscuri Mead from event bosses if you need, a consumable that provides Crit++.
 

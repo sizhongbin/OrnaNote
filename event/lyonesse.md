@@ -1,7 +1,5 @@
 # Lyonesse Legends
 
-> Last Update: 1 Apr, 2024
-
 ## SzHb's Notes
 
 1. **[Beowulf]** Get ***T6*** Lindworm, one of the best raid damage pet.

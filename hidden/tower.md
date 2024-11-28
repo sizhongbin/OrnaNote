@@ -1,7 +1,5 @@
 # Tower
 
-> Last Update: 29 Oct, 2023
-
 ## Building Tower
 
 | Building Towers | Orn Upgrade | Total Orns  | Tower Shards |

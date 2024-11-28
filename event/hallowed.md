@@ -1,7 +1,5 @@
 # The Hallowed!
 
-> Last Update: 9 Oct, 2024
-
 ## SzHb's Notes
 
 ### Goodies

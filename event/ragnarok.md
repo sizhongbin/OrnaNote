@@ -1,7 +1,5 @@
 # Nothren Legends: Ragnarok
 
-> Last Update: 2 July, 2024
-
 ## What's new in 2024
 
 Nothing

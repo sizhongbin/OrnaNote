@@ -1,7 +1,5 @@
 # Amity
 
-> Last Update: 31 Oct, 2023
-
 ## General Info
 
 - Amity seeds depend on 3 things: Party, Hour and the final node Q&A.

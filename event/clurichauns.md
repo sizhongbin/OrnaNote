@@ -1,7 +1,5 @@
 # The Mischievous Clurichauns
 
-> Last Update: 5 Mar, 2024
-
 ## SzHb's Notes
 
 1. ***T5*** Naggeneen's Brew from ***T9*** Arisen Naggeneen, an Item that can proc all single-up buffs in 1 turn.

@@ -1,7 +1,5 @@
 # Battle
 
-> Last Update: 29 Oct, 2023
-
 ## Damage Formula (except Simple Attack)
 
 ### Melee skills (Sword Icon)

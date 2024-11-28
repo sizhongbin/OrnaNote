@@ -1,7 +1,5 @@
 # The Plight of Apollyon
 
-> Last Update: 7 May, 2024
-
 ## What's new in 2024
 
 1. Add X mobs and raids.

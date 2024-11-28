@@ -1,7 +1,5 @@
 # Rift Distortion 
 
-> Last Update: 31 Jan, 2024
-
 ## SzHb's Notes
 
 1. Theta Riftlocks are from Shades and Shadows in Riftfall event, can be used to craft Scroll of (Arisen) Rift Distortion.

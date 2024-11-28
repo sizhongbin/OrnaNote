@@ -1,7 +1,5 @@
 # Phoenixrise
 
-> Last Update: 3 Jan, 2024
-
 ## What's new in 2024
 
 1. New Mobs and Bosses.

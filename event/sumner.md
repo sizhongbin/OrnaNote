@@ -1,7 +1,5 @@
 # Paths of Fomoria - House of Sumner
 
-> Last Update: 2 July, 2024
-
 ## SzHb's Notes
 
 1. Gears from different house have different specific effect.

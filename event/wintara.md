@@ -1,7 +1,5 @@
 # Paths of Fomoria - House of Wintara
 
-> Last Update: 6 Jan, 2024
-
 ## SzHb's Notes
 
 1. Gears from different house have different specific effect.

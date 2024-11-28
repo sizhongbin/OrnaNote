@@ -1,7 +1,5 @@
 # Balor Invades
 
-> Last Update: 28 Nov, 2023
-
 ## SzHb's Notes
 
 1. Get 2 ***T7*** Lugus Gauntlets (any quality) from raid.

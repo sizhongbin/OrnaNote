@@ -1,7 +1,5 @@
 # Paths of Fomoria - House of Nocturna
 
-> Last Update: 3 Apr, 2024
-
 ## SzHb's Notes
 
 1. Gears from different house have different specific effect.

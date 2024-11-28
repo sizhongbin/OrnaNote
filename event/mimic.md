@@ -1,7 +1,5 @@
 # The Mimics are Loose!
 
-> Last Update: 2 July, 2024
-
 ## SzHb's Notes
 1. Get ***T10*** The Mightiest Mimic pet, 100% turn 1 Mimic's Mischief. More useful if you are using gears that gives your follower buff skills.
 2. Get Ornate ***T10*** Carl's Ring (mimic), maybe the best stat boosting accessory.

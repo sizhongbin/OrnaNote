@@ -27,7 +27,7 @@
   <style>
     :root {
       --theme-color: #e60000;
-      --blockquote-padding: 1em
+      --blockquote-padding: 1em;
     }
     .markdown-section code {
       white-space: pre-wrap !important;
@@ -46,6 +46,11 @@
         loadSidebar: true,
         subMaxLevel: 2,
         auto2top: true,
+        timeUpdater: {
+          text: "<div align='right'><small>Last updated at: {docsify-updated}</small></div>",
+          formatUpdated: "{YYYY}/{MM}/{DD} {HH}:{mm}:{ss}",
+          whereToPlace: "top", // "top" or "bottom", default to "bottom"
+        },
       };
     </script>
     <!-- Required -->
@@ -55,5 +60,6 @@
     <!-- Recommended -->
     <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
   </body>
 </html>

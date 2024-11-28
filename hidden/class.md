@@ -1,7 +1,5 @@
 # Class
 
-> Last Update: 15 Nov, 2023
-
 ## Gilgamesh
 
 ### Base Stats

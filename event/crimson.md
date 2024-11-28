@@ -1,7 +1,5 @@
 # The Crimson Festival
 
-> Last Update: 26 Nov, 2024
-
 ## SzHb's Notes
 
 ### Goodies

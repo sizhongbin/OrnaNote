@@ -1,7 +1,5 @@
 # Wyrmhunt
 
-> Last Update: 09 Aug, 2024
-
 ## What's new in 2024
 
 Nothing

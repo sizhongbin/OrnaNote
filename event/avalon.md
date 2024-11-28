@@ -1,7 +1,5 @@
 # Fallen Heroes of Avalon
 
-> Last Update: 5 Jun, 2024
-
 ## What's new in 2024
 
 1. New Super raid.

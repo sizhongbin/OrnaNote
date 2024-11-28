@@ -1,7 +1,5 @@
 # Of Giants and Titans
 
-> Last Update: 4 Nov, 2024
-
 ## SzHb's Notes
 
 ### Goodies

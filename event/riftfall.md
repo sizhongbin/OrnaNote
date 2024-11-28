@@ -1,7 +1,5 @@
 # Riftfall
 
-> Last Update: 12 Sep, 2024
-
 ## SzHb's Notes
 1. **[Ultima Build]** Get at least 12 ***T9*** Soul of Achlys from (Arisen) Shade of Achlys, a weapon adorn that provides 1.02x Holy & Dark damage.
 2. Get some Superior+ ***T9*** Soul of Rhada from (Arisen) Shade of Rhada if you need, an armor adorn that provides 2% ward, Def/Res and 2% Holy & Dark resistance.

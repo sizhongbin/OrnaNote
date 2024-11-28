@@ -1,7 +1,5 @@
 # Beastfelled
 
-> Last Update: 3 Feb, 2024
-
 ## What's new in 2024
 
 1. Event name changed from Return of Kerberos to Beastfelled.
