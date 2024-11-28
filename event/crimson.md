@@ -15,7 +15,7 @@
 3. Goat's Hood
    - -600 foresight
    - From Tricky Aries
-   - For summoners in party play
+   - For summoner in party play
 
 ### Tips
 
