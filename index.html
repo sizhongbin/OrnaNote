@@ -58,7 +58,6 @@
               var date_url =
                 "https://api.github.com/repos/sizhongbin/OrnaNote/commits?sha=gh-pages&per_page=1";
               date_url = date_url + "&path=" + vm.route.file;
-              console.log("data_url: ", date_url)
               fetch(date_url)
                 .then((response) => {
                   return response.json();
@@ -72,12 +71,11 @@
                   document.getElementById("last-modified").textContent =
                     "Last modified: " + time;
                 });
-              if (time !== "")
-                return (
-                  '<div align="right" style="color:gray"><small id="last-modified"></small></div>' +
-                  "\n\n" +
-                  html
-                );
+              return (
+                '<div align="right" style="color:gray"><small id="last-modified"></small></div>' +
+                "\n\n" +
+                html
+              );
             });
           },
         ],
