@@ -12,6 +12,9 @@
 
 - Event Summary
 
+  - [Stop Scruug! - Dec 2024 Main](/event/scruug.md)
+  - [Winter Wild Hunt - Dec 2024 Main](/event/wild.md)
+  - [Friends & Family - Dec 2024 Mini](/event/friends.md)
   - [Of Giants And Titans - Nov 2024 Main](/event/giants.md)
   - [The Crimson Festival - Nov 2024 Mini](/event/crimson.md)
   - [Sisters of Morrigan - Nov 2024 Mini](/event/morrigan.md)
@@ -47,10 +50,10 @@
   - [Phoenixrise - Jan 2024 Main](/event/phoenix.md)
   - [Wyrmhunt - Jan 2024 Mini](/event/wyrm.md)
   - [Paths of Fomoria - House of Wintara - Jan 2024 Mini](/event/wintara.md)
-  - [Stop Scruug! - Dec 2023 Main](/event/yearsend.md)
+  - [Stop Scruug! - Dec 2023 Main](/event/scruug.md)
   - [Balor Invades - Dec 2023 Mini](/event/balor.md)
-  - [Friends & Family - Dec 2023 Mini](/event/friendship.md)
-  - [Winter Wild Hunt - Dec 2023 Mini](/event/winter.md)
+  - [Friends & Family - Dec 2023 Mini](/event/friends.md)
+  - [Winter Wild Hunt - Dec 2023 Mini](/event/wild.md)
   - [Of Giants And Titans - Nov 2023 Main](/event/giants.md)
   - [Sisters of Morrigan - Nov 2023 Mini](/event/morrigan.md)
   - [The Crimson Festival - Nov 2023 Mini](/event/crimson.md)
