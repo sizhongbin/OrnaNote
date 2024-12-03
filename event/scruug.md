@@ -53,3 +53,9 @@
 - `KW ` ***T5&nbsp;*** [Scruug](https://codex.fqegg.top/#/codex/raids/scruug/)
 - `KW ` ***T9&nbsp;*** [Ebon Scruug](https://codex.fqegg.top/#/codex/raids/ebon-scruug/)
 - `KW ` ***T10*** [Arisen Ebon Scruug](https://codex.fqegg.top/#/codex/raids/arisen-ebon-scruug/)
+
+---
+
+*In China, there is no Christmas in December, but there is a DongZhi Festival(winter solstice). It is a time for the family to get together and eat Jiaozi (Chinese Dumpling, which symbolize fortune) or Tangyuan (Sweet Rice Balls, which symbolize reunion).*
+
+*by SzHb*
