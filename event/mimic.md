@@ -41,25 +41,33 @@
 
 ### Followers
 
-- ***T5&nbsp;*** [Age-Old Mimic](https://codex.fqegg.top/#/codex/followers/age-old-mimic/)
-- ***T10*** [The Mightiest Mimic](https://codex.fqegg.top/#/codex/followers/the-mightiest-mimic/)
+|★|Follower|
+|-|-|
+|5|[Age-Old Mimic](https://codex.fqegg.top/#/codex/followers/age-old-mimic/)|
+|10|[The Mightiest Mimic](https://codex.fqegg.top/#/codex/followers/the-mightiest-mimic/)|
 
 ### Summons
 
-- ***T7&nbsp;*** [Summon Cernunnos](https://codex.fqegg.top/#/codex/spells/summon-cernunnos/)
-- ***T8&nbsp;*** [Summon Buggane](https://codex.fqegg.top/#/codex/spells/summon-buggane/)
-- ***T8&nbsp;*** [Summon Onryo](https://codex.fqegg.top/#/codex/spells/summon-onryo/)
-- ***T8&nbsp;*** [Summon Very Scary Skeleton](https://codex.fqegg.top/#/codex/spells/summon-very-scary-skeleton/)
-- ***T9&nbsp;*** [Summon Hati](https://codex.fqegg.top/#/codex/spells/summon-hati/)
-- ***T9&nbsp;*** [Summon Spooky Ghost](https://codex.fqegg.top/#/codex/spells/summon-spooky-ghost/)
-- ***T10*** [Summon Glashtyn](https://codex.fqegg.top/#/codex/spells/summon-glashtyn/)
-- ***T10*** [Summon Scarecrow](https://codex.fqegg.top/#/codex/spells/summon-scarecrow/)
+|★|Summon|
+|-|-|
+|7|[Cernunnos](https://codex.fqegg.top/#/codex/spells/summon-cernunnos/)|
+|8|[Buggane](https://codex.fqegg.top/#/codex/spells/summon-buggane/)|
+|8|[Onryo](https://codex.fqegg.top/#/codex/spells/summon-onryo/)|
+|8|[Very Scary Skeleton](https://codex.fqegg.top/#/codex/spells/summon-very-scary-skeleton/)|
+|9|[Hati](https://codex.fqegg.top/#/codex/spells/summon-hati/)|
+|9|[Spooky Ghost](https://codex.fqegg.top/#/codex/spells/summon-spooky-ghost/)|
+|10|[Glashtyn](https://codex.fqegg.top/#/codex/spells/summon-glashtyn/)|
+|10|[Scarecrow](https://codex.fqegg.top/#/codex/spells/summon-scarecrow/)|
 
 ### Raids
- 
-- ***T5&nbsp;*** [Age-Old Mimic](https://codex.fqegg.top/#/codex/raids/age-old-mimic/)<sup>*Kingdom</sup>
-- ***T8&nbsp;*** [Mimic King of Kings](https://codex.fqegg.top/#/codex/raids/mimic-king-of-kings/)<sup>*Kingdom</sup>
-- ***T9&nbsp;*** [The Mightiest Mimic](https://codex.fqegg.top/#/codex/raids/the-mightiest-mimic/)
+
+Spawn: K = Kingdom, W = World (Summoning Scroll)
+
+|★|Spawn|Raid|
+|-|:-:|-|
+|5|K|[Age-Old Mimic](https://codex.fqegg.top/#/codex/raids/age-old-mimic/)|
+|8|K|[Mimic King of Kings](https://codex.fqegg.top/#/codex/raids/mimic-king-of-kings/)|
+|9|W|[The Mightiest Mimic](https://codex.fqegg.top/#/codex/raids/the-mightiest-mimic/)|
 
 ---
 
