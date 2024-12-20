@@ -41,14 +41,14 @@
 
 ### Followers
 
-|★|Follower|
+|★|Name|
 |-|-|
 |5|[Age-Old Mimic](https://codex.fqegg.top/#/codex/followers/age-old-mimic/)|
 |10|[The Mightiest Mimic](https://codex.fqegg.top/#/codex/followers/the-mightiest-mimic/)|
 
 ### Summons
 
-|★|Summon|
+|★|Name|
 |-|-|
 |7|[Cernunnos](https://codex.fqegg.top/#/codex/spells/summon-cernunnos/)|
 |8|[Buggane](https://codex.fqegg.top/#/codex/spells/summon-buggane/)|
@@ -63,8 +63,8 @@
 
 Spawn: K = Kingdom, W = World (Summoning Scroll)
 
-|★|Spawn|Raid|
-|-|:-:|-|
+|★|Spawn|Name|
+|-|-|-|
 |5|K|[Age-Old Mimic](https://codex.fqegg.top/#/codex/raids/age-old-mimic/)|
 |8|K|[Mimic King of Kings](https://codex.fqegg.top/#/codex/raids/mimic-king-of-kings/)|
 |9|W|[The Mightiest Mimic](https://codex.fqegg.top/#/codex/raids/the-mightiest-mimic/)|

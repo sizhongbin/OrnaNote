@@ -25,34 +25,42 @@
 
 ### Followers
 
-- ***T4&nbsp;*** [Alfar](https://codex.fqegg.top/#/codex/followers/alfar/)
-- ***T5&nbsp;*** [Scruug](https://codex.fqegg.top/#/codex/followers/scruug/)
-- ***T7&nbsp;*** [Alfar Mage](https://codex.fqegg.top/#/codex/followers/alfar-mage/)
-- ***T9&nbsp;*** [Ebon Scruug](https://codex.fqegg.top/#/codex/followers/ebon-scruug/)
+|★|Name|
+|-|-|
+|4|[Alfar](https://codex.fqegg.top/#/codex/followers/alfar/)|
+|5|[Scruug](https://codex.fqegg.top/#/codex/followers/scruug/)|
+|7|[Alfar Mage](https://codex.fqegg.top/#/codex/followers/alfar-mage/)|
+|9|[Ebon Scruug](https://codex.fqegg.top/#/codex/followers/ebon-scruug/)|
 
 ### Monsters
 
-> The following mobs can be found in Regular Dungeon. The Arisen ones can be also found in Valley of The God.
+The following mobs can be found in Regular Dungeon. The Arisen ones can be also found in Valley of The God.
 
-- ***T4&nbsp;*** [Alfar](https://codex.fqegg.top/#/codex/monsters/alfar/)
-- ***T5&nbsp;*** [Alfar Mage](https://codex.fqegg.top/#/codex/monsters/alfar-mage-fe8adf12/)
-- ***T8&nbsp;*** [Arisen Alfar](https://codex.fqegg.top/#/codex/monsters/alfar-50af8af8/)
-- ***T9&nbsp;*** [Arisen Alfar Mage](https://codex.fqegg.top/#/codex/monsters/alfar-mage/)
+|★|Name|
+|-|-|
+|4|[Alfar](https://codex.fqegg.top/#/codex/monsters/alfar/)|
+|5|[Alfar Mage](https://codex.fqegg.top/#/codex/monsters/alfar-mage-fe8adf12/)|
+|8|[Arisen Alfar](https://codex.fqegg.top/#/codex/monsters/alfar-50af8af8/)|
+|9|[Arisen Alfar Mage](https://codex.fqegg.top/#/codex/monsters/alfar-mage/)|
+
 ### Bosses
 
-> The following bosses can be found in Regular Dungeon. The Arisen one can be also found in Valley of The God.
+The following bosses can be found in Regular Dungeon. The Arisen one can be also found in Valley of The God.
 
-- ***T5&nbsp;*** [Alfar Lord](https://codex.fqegg.top/#/codex/bosses/alfar-lord/)
-- ***T9&nbsp;*** [Arisen Alfar Lord](https://codex.fqegg.top/#/codex/bosses/arisen-alfar-lord/)<sup>*Godforge aura</sup>
+|★|Name|
+|-|-|
+|5|[Alfar Lord](https://codex.fqegg.top/#/codex/bosses/alfar-lord/)|
+|9|[Arisen Alfar Lord](https://codex.fqegg.top/#/codex/bosses/arisen-alfar-lord/)<sup>*GF aura</sup>|
 
 ### Raids
 
-> `K`= **K**ingdom raid <br>
-> `W`= **W**orld raid from Summoning Scrolls
+Spawn: K = Kingdom, W = World (Summoning Scroll)
 
-- `KW ` ***T5&nbsp;*** [Scruug](https://codex.fqegg.top/#/codex/raids/scruug/)
-- `KW ` ***T9&nbsp;*** [Ebon Scruug](https://codex.fqegg.top/#/codex/raids/ebon-scruug/)
-- `KW ` ***T10*** [Arisen Ebon Scruug](https://codex.fqegg.top/#/codex/raids/arisen-ebon-scruug/)
+|★|Spawn|Name|
+|-|-|-|
+|5|K W|[Scruug](https://codex.fqegg.top/#/codex/raids/scruug/)|
+|9|K W|[Ebon Scruug](https://codex.fqegg.top/#/codex/raids/ebon-scruug/)|
+|10|K W|[Arisen Ebon Scruug](https://codex.fqegg.top/#/codex/raids/arisen-ebon-scruug/)|
 
 ---
 
